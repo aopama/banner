@@ -1,0 +1,16 @@
+{
+  "id": "2444424",
+  "name": "playcrab",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon",
+  "description": "玩蟹官网",
+  "glyphs": [
+    {
+      "icon_id": "8342013",
+      "name": "加号",
+      "font_class": "iconjia",
+      "unicode": "e634",
+      "unicode_decimal": 58932
+    }
+  ]
+}
